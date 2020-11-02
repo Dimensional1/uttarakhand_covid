@@ -1,0 +1,128 @@
+{
+    "data": [
+        {"id":"Chamoli",
+            "infected":1730,
+            "recovered":1514,
+            "name":"Chamoli",
+            "death":1,
+     "latitude":211.7185798301016,
+     "longitude":153.76603412258373
+       
+    },
+    {
+        "id":"Almora",
+     "infected":1815,
+     "recovered":1695,
+        "name":"Almora",
+        "death":9,
+        "latitude":29.8150,
+        "longitude":79.2902	
+        
+    },
+    {
+        "id":"Nainital",
+        "infected":7213,
+        "recovered":6651,
+           "name":"Nainital",
+           "death":143,
+           "latitude":29.3919,
+           "longitude":79.4542	
+
+    },
+    {
+        "id":"Pauri Garhwal",
+    "infected":2836,
+    "recovered":	
+    2317,
+       "name":"Pauri Garhwal",
+       "death":29,
+       "latitude":30.1471,
+       "longitude":78.7745
+    },
+    {
+        "id":"Tehri Garhwal",
+    "infected":3025,
+    "recovered": 2796,
+       "name":"Tehri Garhwal",
+       "death":5,
+       "latitude":30.3739,
+       "longitude":78.4325
+
+    },
+    {
+        "id":"Champawat",
+        "infected":	
+        1131,
+        "recovered": 983,
+           "name":"Champawat",
+           "death":6,
+           "latitude":29.3361,
+           "longitude":80.0910
+    },
+   {
+    "id":"Pithoragarh",
+    "infected":	
+    1439,
+    "recovered": 1256,
+       "name":"Pithoragarh",
+       "death":5,
+       "latitude":29.5829,
+       "longitude":80.2182
+   } ,
+   {
+    "id":"Rudraprayag",
+    "infected":1163,
+    "recovered": 962,
+       "name":"Rudraprayag",
+       "death":2,
+       "latitude":30.2844,
+       "longitude":78.9811
+   },
+   {
+    "id":"Bageshwar",
+    "infected":910,
+    "recovered": 797,
+       "name":"Bageshwar",
+       "death":8,
+       "latitude":29.8404,
+       "longitude":79.7694  
+   },
+   {
+    "id":"Dehradun",
+    "infected":16998,
+    "recovered": 15395,
+       "name":"Dehradun",
+       "death":578,
+       "latitude":30.3165,
+       "longitude":78.0322 
+   },
+   {
+    "id":"Haridwar",
+    "infected":10909,
+    "recovered": 10327,
+       "name":"Haridwar",
+       "death":121,
+       "latitude":29.9457,
+       "longitude":78.1642   
+   },
+   {
+    "id":"Udham Singh Nagar",
+    "infected":9424,
+    "recovered": 8995,
+       "name":"Udham Singh Nagar",
+       "death":93,
+       "latitude":28.9610,
+       "longitude":79.5154  
+   },
+   {
+    "id":"Uttarkashi",
+    "infected":2668,
+    "recovered":2385,
+       "name":"Uttarkashi",
+       "death":9,
+       "latitude":30.7268,
+       "longitude":78.4354    
+   }
+
+]
+}
